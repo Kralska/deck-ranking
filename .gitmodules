@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Kralska/deck_ranking_server.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/Kralska/deck_ranking_client.git
